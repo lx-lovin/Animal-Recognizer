@@ -1,5 +1,5 @@
-# Cat-Dog-Recognizer
-Recognize Cat or Dog using CNN and Keras with 95.62% accuracy
+# Animal Recognizer
+Recognize Animals using CNN and Keras with 95.62% accuracy
 
 # Requirements(to be installed)
 # Keras
